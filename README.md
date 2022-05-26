@@ -11,9 +11,12 @@
 
 Some preview of what I already made in my personal projects:
 
+![image](https://user-images.githubusercontent.com/56691312/170578671-0c99f36f-f396-4845-b07f-b77205276334.png)
+![image](https://user-images.githubusercontent.com/56691312/170578864-8fa7ab5c-8b6a-40e9-8de3-d4c3524bc207.png)
 ![image](https://user-images.githubusercontent.com/56691312/170578221-5c1c3da8-548d-47aa-96a8-ebf099db6e22.png)
-![image](https://user-images.githubusercontent.com/56691312/170578263-eaec3bee-fc06-48ec-95ba-fcf34bbf6a75.png)
 ![image](https://user-images.githubusercontent.com/56691312/170578415-a30f2d09-5dc2-436a-84ef-b95f6b057d4d.png)
+![image](https://user-images.githubusercontent.com/56691312/170578801-a570c8ed-9d8e-4093-b19d-8a879c7115b1.png)
+![image](https://user-images.githubusercontent.com/56691312/170578263-eaec3bee-fc06-48ec-95ba-fcf34bbf6a75.png)
 
 
 - 📫 How to reach me **emoreiravirtus@gmail.com**
