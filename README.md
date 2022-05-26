@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias T Moreira</h1>
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
 
-- 👨🏻‍💻 I have 2+ amazing years of experience**
+- 👨🏻‍💻 I have 2+ amazing years of experience
 
 - 🔭 I’m currently working in **Sao Paulo - Brasil (Remotely)**
 
