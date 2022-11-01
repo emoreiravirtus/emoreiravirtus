@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently in my third year at **Brigham Young University Idaho**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emoreiravirtus?tab=repositories](https://github.com/emoreiravirtus?tab=repositories)
-
 Some preview of what I already made in my personal projects:
 
 ![image](https://user-images.githubusercontent.com/56691312/170578671-0c99f36f-f396-4845-b07f-b77205276334.png)
