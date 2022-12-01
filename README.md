@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elias T Moreira</h1>
+<h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
 
 - 📫 How to reach me **emoreiravirtus@gmail.com**
