@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 📫 How to reach me **emoreiravirtus@gmail.com**
+- 📫 How to reach me -> **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LNuApYTo4mDkiJbWdgeGYJxj0HOEZ_KV/view?usp=sharing](https://drive.google.com/file/d/1LNuApYTo4mDkiJbWdgeGYJxj0HOEZ_KV/view?usp=sharing)
 
