@@ -7,7 +7,7 @@ Some highlights:
 
 [Happy Hour](https://teste-oowlish-c9315.web.app/)
 
-<img src="https://user-images.githubusercontent.com/56691312/205151998-78897ec0-8f01-4748-b51b-6708130013d3.gif" width="450" height="500">
+<img src="https://user-images.githubusercontent.com/56691312/205151998-78897ec0-8f01-4748-b51b-6708130013d3.gif" width="400" height="450">
 
 ![7](https://user-images.githubusercontent.com/56691312/205151998-78897ec0-8f01-4748-b51b-6708130013d3.gif)
 ![8](https://user-images.githubusercontent.com/56691312/205152003-8d3458e5-a7fd-421e-9ae8-31e876b30616.gif)
