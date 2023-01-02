@@ -2,13 +2,14 @@
 
 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
-*Projects I worked professionaly*
+**Projects I worked professionaly**
 
 [Bradesco](https://banco.bradesco/naocorrentista/emprestimo-pessoal/index.shtm)
+
 ![image](https://user-images.githubusercontent.com/56691312/210234706-a5e0f51d-a88a-4aba-bf65-3284b77ae47e.png)
 
 
-*Some personal projects:*
+**Some personal projects:**
 
 [Happy Hour - Click here to go to the project](https://teste-oowlish-c9315.web.app/)
 
