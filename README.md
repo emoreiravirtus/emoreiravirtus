@@ -7,7 +7,7 @@ Some highlights:
 
 [Happy Hour](https://teste-oowlish-c9315.web.app/)
 
-<img src="https://user-images.githubusercontent.com/56691312/205151998-78897ec0-8f01-4748-b51b-6708130013d3.gif" width="300" height="500"><img src="https://user-images.githubusercontent.com/56691312/205152003-8d3458e5-a7fd-421e-9ae8-31e876b30616.gif" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/56691312/205151998-78897ec0-8f01-4748-b51b-6708130013d3.gif" width="300" height="500"> <img src="https://user-images.githubusercontent.com/56691312/205152003-8d3458e5-a7fd-421e-9ae8-31e876b30616.gif" width="300" height="500">
 
 [PokePi](https://pokemonbattle-acccf.web.app/)
 
