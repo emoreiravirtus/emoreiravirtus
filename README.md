@@ -1,9 +1,8 @@
 <h1 align="center">Portfolio</h1>
 
-- 📫 How to reach me -> **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
+📫 Reach me on **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
-Some highlights:
-
+**Some personal projects:**
 
 [Happy Hour - Click here to go to the project](https://teste-oowlish-c9315.web.app/)
 
