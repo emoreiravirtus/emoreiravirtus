@@ -4,7 +4,7 @@
 
 **Projects I worked professionaly**
 
-[BEES Bank]([https://banco.bradesco/naocorrentista/emprestimo-pessoal/index.shtm](https://www.beesbank.com.br/){:target="_blank"}
+[BEES Bank](https://www.beesbank.com.br/){:target="_blank"}
 
 ![image](https://user-images.githubusercontent.com/56691312/210235129-bc62842f-1a91-4530-b055-ac0826161c4e.png)
 
