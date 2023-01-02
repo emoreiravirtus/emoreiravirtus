@@ -4,9 +4,17 @@
 
 **Projects I worked professionaly**
 
+[BEES Bank]([https://banco.bradesco/naocorrentista/emprestimo-pessoal/index.shtm](https://www.beesbank.com.br/))
+
+![image](https://user-images.githubusercontent.com/56691312/210235129-bc62842f-1a91-4530-b055-ac0826161c4e.png)
+
 [Bradesco](https://banco.bradesco/naocorrentista/emprestimo-pessoal/index.shtm)
 
 ![image](https://user-images.githubusercontent.com/56691312/210234706-a5e0f51d-a88a-4aba-bf65-3284b77ae47e.png)
+
+[Brinquedos Estrela](https://www.brinquedosestrela.com.br/)
+
+![image](https://user-images.githubusercontent.com/56691312/210235389-1bd757a5-4794-4e66-889a-264a050b49ed.png)
 
 
 **Some personal projects:**
