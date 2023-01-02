@@ -11,13 +11,11 @@ Some highlights:
 
 [PokePi](https://pokemonbattle-acccf.web.app/)
 
-<img src="https://user-images.githubusercontent.com/56691312/205147854-cde881be-30c9-4384-b179-d1bd312a9e71.gif" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/56691312/205148234-5959898a-b042-4066-b787-da9127763e92.gif" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/56691312/205147854-cde881be-30c9-4384-b179-d1bd312a9e71.gif" width="300" height="500">   <img src="https://user-images.githubusercontent.com/56691312/205148234-5959898a-b042-4066-b787-da9127763e92.gif" width="300" height="500">
 
 [Rails](https://emoreiravirtus.github.io/Railsware)
 
-<img src="https://user-images.githubusercontent.com/56691312/205150653-c413ec61-a399-4852-9873-dccfd4d173f6.gif" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/56691312/205150679-81e5fb5f-5b4e-4762-9d33-d8e4e4f1d4f4.gif" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/56691312/205150653-c413ec61-a399-4852-9873-dccfd4d173f6.gif" width="300" height="500">   <img src="https://user-images.githubusercontent.com/56691312/205150679-81e5fb5f-5b4e-4762-9d33-d8e4e4f1d4f4.gif" width="300" height="500">
 
 [SpotFree - NEEDS A SPOTIFY ACCOUNT](https://spotfree-84208.web.app/)
 
