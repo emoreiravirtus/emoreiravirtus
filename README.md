@@ -1,5 +1,7 @@
 <h1 align="center">Portfolio</h1>
 
+Working as a Frontend Software Engineer for 3 years, with an Associate Degree in Computer Science Field, near to a Bachelor's Degree next year. I speak Portuguese, English, and Spanish.
+
 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
 **Projects I worked professionaly**
