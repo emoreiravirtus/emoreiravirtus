@@ -4,21 +4,6 @@ Working as a Frontend Software Engineer for 3 years, with an Associate Degree in
 
 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
-**Projects I worked professionaly**
-
-[BEES Bank](https://www.beesbank.com.br/)
-
-![image](https://user-images.githubusercontent.com/56691312/210235129-bc62842f-1a91-4530-b055-ac0826161c4e.png)
-
-[Bradesco](https://banco.bradesco/naocorrentista/emprestimo-pessoal/index.shtm)
-
-![image](https://user-images.githubusercontent.com/56691312/210234706-a5e0f51d-a88a-4aba-bf65-3284b77ae47e.png)
-
-[Brinquedos Estrela](https://www.brinquedosestrela.com.br/)
-
-![image](https://user-images.githubusercontent.com/56691312/210235389-1bd757a5-4794-4e66-889a-264a050b49ed.png)
-
-
 **Some personal projects:**
 
 [Happy Hour - Click here to go to the project](https://teste-oowlish-c9315.web.app/)
@@ -40,5 +25,19 @@ Working as a Frontend Software Engineer for 3 years, with an Associate Degree in
 [Pharma INC - Click here to go to the project](https://pharma-inc-elias.web.app/)
 
 <img src="https://user-images.githubusercontent.com/56691312/205151302-dd477ecb-6e39-41d9-9452-538baac4430c.gif" width="650" height="500">
+
+**Projects I worked professionaly**
+
+[BEES Bank](https://www.beesbank.com.br/)
+
+![image](https://user-images.githubusercontent.com/56691312/210235129-bc62842f-1a91-4530-b055-ac0826161c4e.png)
+
+[Bradesco](https://banco.bradesco/naocorrentista/emprestimo-pessoal/index.shtm)
+
+![image](https://user-images.githubusercontent.com/56691312/210234706-a5e0f51d-a88a-4aba-bf65-3284b77ae47e.png)
+
+[Brinquedos Estrela](https://www.brinquedosestrela.com.br/)
+
+![image](https://user-images.githubusercontent.com/56691312/210235389-1bd757a5-4794-4e66-889a-264a050b49ed.png)
 
 
