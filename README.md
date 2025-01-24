@@ -3,14 +3,13 @@
 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
 **Some personal projects:**
+[PokePi - Click here to go to the project](https://pokemonbattle-acccf.web.app/)
+
+<img src="https://user-images.githubusercontent.com/56691312/205147854-cde881be-30c9-4384-b179-d1bd312a9e71.gif" width="300" height="500">   <img src="https://user-images.githubusercontent.com/56691312/205148234-5959898a-b042-4066-b787-da9127763e92.gif" width="300" height="500">
 
 [Happy Hour - Click here to go to the project](https://teste-oowlish-c9315.web.app/)
 
 <img src="https://user-images.githubusercontent.com/56691312/205151998-78897ec0-8f01-4748-b51b-6708130013d3.gif" width="300" height="500">   <img src="https://user-images.githubusercontent.com/56691312/205152003-8d3458e5-a7fd-421e-9ae8-31e876b30616.gif" width="300" height="500">
-
-[PokePi - Click here to go to the project](https://pokemonbattle-acccf.web.app/)
-
-<img src="https://user-images.githubusercontent.com/56691312/205147854-cde881be-30c9-4384-b179-d1bd312a9e71.gif" width="300" height="500">   <img src="https://user-images.githubusercontent.com/56691312/205148234-5959898a-b042-4066-b787-da9127763e92.gif" width="300" height="500">
 
 [Rails - Click here to go to the project](https://emoreiravirtus.github.io/Railsware)
 
