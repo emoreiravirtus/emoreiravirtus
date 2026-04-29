@@ -2,7 +2,11 @@
 
 📫 Reach me on **[Linkedin](https://www.linkedin.com/in/emoreiravirtus/)**
 
-**Some personal projects:**
+[Emy Store](https://www.emy3d.com/)
+
+<img width="438" height="471" alt="linkedin showcase" src="https://github.com/user-attachments/assets/bbc77396-8ae8-4f09-ba6d-d3717df297aa" />
+
+
 [PokePi - Click here to go to the project](https://pokemonbattle-acccf.web.app/)
 
 <img src="https://user-images.githubusercontent.com/56691312/205147854-cde881be-30c9-4384-b179-d1bd312a9e71.gif" width="300" height="500">   <img src="https://user-images.githubusercontent.com/56691312/205148234-5959898a-b042-4066-b787-da9127763e92.gif" width="300" height="500">
